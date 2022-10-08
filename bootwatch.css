@@ -1,0 +1,20 @@
+#main-head{
+    
+    /* height: 100px;
+    padding: 25px 0px;
+    background-image: url("v.jpg");
+   
+   background-size: auto; */
+   height: calc(90vh);
+   
+   background: url("v.jpg");
+  
+   background-size: cover;
+}
+.page-section{
+padding: 8%;
+}
+.section-subheading{
+    padding: 1%;
+    
+}
